@@ -1,10 +1,10 @@
 ---
-title: Authoring Tests in C\
-description: Authoring Tests in C\
+title: Authoring Tests in C#
+description: Authoring Tests in C#
 ms.assetid: 4DD1D673-FEAF-44a4-8BAD-0E55318DC64B
 ---
 
-# Authoring Tests in C#
+# Authoring Tests in C# #
 
 
 The example below shows a C# .cs file with a simple single test class that demostrates C# tests markup. (Please note that this example is for demonstrational purpose only, so it will not compile or run.)
